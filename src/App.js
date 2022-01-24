@@ -30,7 +30,7 @@ function App() {
           </div>
           <div className="w-6/12">
             <div className="button text-center">
-              <a className="font-semibold text-sky-300 border border-yellow-300 rounded-full px-6 py-2">Kontak</a>
+              <a className="font-semibold text-emerald-400 border border-yellow-300 rounded-full px-6 py-2">Espada</a>
             </div>
           </div>
         </div>
